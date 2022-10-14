@@ -1,1 +1,1 @@
-Devops Project - sample update for trigger
+Devops Project - sample update
